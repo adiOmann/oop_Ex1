@@ -10,7 +10,7 @@ Everyone has the possibility to up and down from each floor and for each floor.
 Our goal is reduce the waiting time to minimal time from the moment that the person call to the elevator until he arrived to his destination.
 
 
-We assume that everyone can arrived from every floor, and call the elevator from every floor in the building.
+## We assume that everyone can arrived from every floor, and call the elevator from every floor in the building.
 
 
 #### In our algorithm we were help by the next articles:
@@ -21,11 +21,11 @@ http://cs.huji.ac.il/~ai/projects/2014/The_intelevator/files/report.pdf
 
 https://studylib.net/doc/7878746/on-line-algorithms-versus-off-line-algorithms-for-the-ele
 
-Algorithm offline:
+#### Algorithm offline:
 
 In this method we get the data in advanced, therfore this method is over effective because the algorithm designed so that the calls be executed at the Highly effective way.
 
-Algorithm online:
+#### Algorithm online:
 
 In this method we get the data at runtime, and the algorithm need to send the appropriate elevator in this moment.
 
