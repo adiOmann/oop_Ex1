@@ -3,14 +3,14 @@
 
 
 
-# The problem space:
+## The problem space:
 
 Number of people that want to use at number of elevators in one building.
 Everyone has the possibility to up and down from each floor and for each floor.
 Our goal is reduce the waiting time to minimal time from the moment that the person call to the elevator until he arrived to his destination.
 
 
-## We assume that everyone can arrived from every floor, and call the elevator from every floor in the building.
+ We assume that everyone can arrived from every floor, and call the elevator from every floor in the building.
 
 
 #### In our algorithm we were help by the next articles:
@@ -30,7 +30,7 @@ In this method we get the data in advanced, therfore this method is over effecti
 In this method we get the data at runtime, and the algorithm need to send the appropriate elevator in this moment.
 
 We suggest offline algorithm solution, so we get all the data in advanced.
-# The algorithm:
+## The algorithm:
 
 We create a list of all the elevators of the building, the function run over the list and check the speed of all elevator.
 We deviced the number of calls in proportionately, so that the fastes elevator get the most number of calls, the slowest elevator get the low number of calls and relatively all other elevators.
