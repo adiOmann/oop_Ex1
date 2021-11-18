@@ -22,6 +22,7 @@ http://cs.huji.ac.il/~ai/projects/2014/The_intelevator/files/report.pdf
 https://studylib.net/doc/7878746/on-line-algorithms-versus-off-line-algorithms-for-the-ele
 
 algorithm offline:
+
 In this method we get the data in advanced, therfore this method is over effective because the algorithm designed so that the calls be executed at the Highly effective way.
 
 algorithm online:
