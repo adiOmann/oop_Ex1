@@ -16,11 +16,15 @@ we assume that everyone can arrived from every floor, and call the elevator from
 In our algorithm we were help by the next articles:
 
 http://www.intertent.co.il/2011/07/elevator-algorithm.html
+
 http://cs.huji.ac.il/~ai/projects/2014/The_intelevator/files/report.pdf
+
 https://studylib.net/doc/7878746/on-line-algorithms-versus-off-line-algorithms-for-the-ele
 
-algorithm offline: In this method we get the data in advanced, therfore this method is over effective because the algorithm designed so that the calls be executed at the Highly effective way.
-algorithm oמline: In this method we get the data at runtime, and the algorithm need to send the appropriate elevator in this moment.
+algorithm offline:
+In this method we get the data in advanced, therfore this method is over effective because the algorithm designed so that the calls be executed at the Highly effective way.
+algorithm online:
+In this method we get the data at runtime, and the algorithm need to send the appropriate elevator in this moment.
 
 we suggest offline algorithm solution, so we get all the data in advanced.
  
