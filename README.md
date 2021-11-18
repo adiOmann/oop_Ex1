@@ -23,7 +23,9 @@ https://studylib.net/doc/7878746/on-line-algorithms-versus-off-line-algorithms-f
 
 algorithm offline:
 In this method we get the data in advanced, therfore this method is over effective because the algorithm designed so that the calls be executed at the Highly effective way.
+
 algorithm online:
+
 In this method we get the data at runtime, and the algorithm need to send the appropriate elevator in this moment.
 
 we suggest offline algorithm solution, so we get all the data in advanced.
