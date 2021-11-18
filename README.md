@@ -4,6 +4,7 @@
 
 
 the problem:
+
 number of people that want to use at number of elevators in one building.
 everyone has the possibility to up and down from each floor and for each floor.
 our goal is reduce the waiting time to minimal time from the moment that the person call to the elevator until he arrived to his destination.
