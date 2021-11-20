@@ -77,7 +77,7 @@ class MyAlgo:
                 Temp_b = Building(os.path)
                 self.elev.append(Temp_b.elevators)
 
-    def allocate(self):
+    def alloc(self):
         for i in range(len(self.Ro)):
             for elev in self.elev:
                 for k in range(floor(elev.speed + 1)):
